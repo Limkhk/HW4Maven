@@ -1,7 +1,7 @@
 out/
 .idea/
 
-#Maven
+#Mavenignore
 target/
 pom.xml.tag
 pom.xml.releaseBackup
